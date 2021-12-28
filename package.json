@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "16.13.1",
+  "description": "Simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yelyaman/intro-to-node.git"
+  },
+  "author": "Yelaman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yelyaman/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/yelyaman/intro-to-node#readme"
+}
